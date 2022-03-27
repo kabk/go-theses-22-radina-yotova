@@ -323,24 +323,6 @@ img.lazy:not(.reveal-img) { opacity: 1 };
   margin-top:0;
 }
 
-#seventeen {
-  position: -webkit-sticky !important;
-  position: sticky !important;
-  height:auto;
-  top: 0;
-  background:#fff;
-  z-index:2;
-}
-
-#eighteen {
-  grid-column: 1 / 5;
-  grid-row: 10;
-  height:auto;
-  padding-top:0;
-  margin-top:0;
-}
-
-
 .title{
   font-family:Neue-MachinaBold;
   font-size: 5.5rem;

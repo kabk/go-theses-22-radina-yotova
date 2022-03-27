@@ -347,26 +347,6 @@ body {
   will-change: scroll;
 }
 
-#seventeen {
-  position: -webkit-sticky !important;
-  position: sticky !important;
-  display:block;
-  height:auto;
-  top: 0;
-  margin:0;
-  background:#fff;
-  will-change: scroll;
-}
-
-#eighteen {
-  grid-column: 1 / 5;
-  grid-row: 10;
-  height:auto;
-  padding-top:0;
-  margin-top:0;
-  will-change: scroll;
-}
-
 .title{
   font-family:Neue-MachinaBold;
   font-size: 5.5rem;
