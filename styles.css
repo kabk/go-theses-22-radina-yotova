@@ -77,6 +77,7 @@ body {
   max-width: 80%;
 }
 
+
 #reveal12  {
   top: 60px;
 }
@@ -120,7 +121,10 @@ body {
   -ms-transform: none;
   -o-transform: none;
   transform: none;
-  pointer-events:auto;
+}
+
+.reveal-a{
+pointer-events:auto;
 }
 
 .reveal-figcap {
