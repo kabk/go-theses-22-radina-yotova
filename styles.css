@@ -121,11 +121,9 @@ body {
   -ms-transform: none;
   -o-transform: none;
   transform: none;
+  pointer-events:auto;
 }
 
-.reveal-a{
-pointer-events:auto;
-}
 
 .reveal-figcap {
   width:70%;
